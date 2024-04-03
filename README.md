@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/36/9b/5b/369b5b56624a60fcaed7b450432775db.jpg" alt="ilustração de um computador" min-width="140px" max-width="1300px" width="172px" align="right">
+<img src="https://i.pinimg.com/564x/ee/67/c4/ee67c4025ebd01629efaebaa9ed289f9.jpg" alt="ilustração de um computador" min-width="140px" max-width="1300px" width="200px" align="right">
 <div align="left">
 # <p align="center">Paula Leme</p>
 <p align="center">
@@ -18,9 +18,9 @@
 </div></div>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/web-projects)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/FindPET)
+[![Pawla Leme](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=pawlaleme&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/FindPET)
+
 [![Pawla Leme](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=pawlaleme&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/pawlaleme)
 
 <p align="left">
