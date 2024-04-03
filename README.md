@@ -3,8 +3,7 @@
 ### **🦋 Olá, tudo bem?** 
 Eu sou a Paula, tenho 24 anos, sou formada em Sistemas da Informação pela UNISO. Criei esse git para registrar meus estudos. 🦋
 
-<div style="display: inline_block"><br/>
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/01pawla/)
+[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)(https://steamcommunity.com/id/01pawla/)
 [![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/eupawlaleme)
 
 
