@@ -9,7 +9,7 @@ Eu sou a Paula, tenho 24 anos, sou formada em Sistemas da Informação pela UNIS
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paaulaleme/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulaleme/)
 [![twitc](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.com/paulafps)
-</div>
+</div></div>
 <hr style="border-top: 0.5px solid #aaa; width: 50%; margin-left: 0;">
 
 ![Pawla Lemes's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawlaleme&show_icons=true&theme=synthwave)
