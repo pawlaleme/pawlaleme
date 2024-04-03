@@ -18,7 +18,7 @@
 </div></div>
 <div style="display: inline_block"><br/>
 
-## Repositories -
+## 🌐 Repositories ;
 [![FindPET](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=findPET&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/FindPET)
 
 [![Pawla Leme](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=pawlaleme&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/pawlaleme)
