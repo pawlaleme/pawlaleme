@@ -15,7 +15,6 @@ Eu sou a Paula, tenho 24 anos, sou formada em Sistemas da Informação pela UNIS
 </div>
 </div><div>
 <h3> ##Tecnologias que utilizo no meu dia a dia  🚀 </h3>
-<hr style="border-top: 0.1px solid #aaa; width: 20%; margin-left: 0;">
 </div>
  <div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"   />
