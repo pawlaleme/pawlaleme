@@ -1,7 +1,14 @@
+<img src="https://i.pinimg.com/originals/27/45/80/274580f174e6bf743a0de471b9f9e070.jpg" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 <div align="left">
-
-### **🦋 Olá, tudo bem?** 
-Eu sou a Paula, tenho 24 anos, sou formada em Sistemas da Informação pela UNISO. Criei esse git para registrar meus estudos. 🦋
+# <p align="center">Paula Leme</p>
+<p align="center">
+  <a href="https://github.com/pawlaleme/pawlaleme"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Desenvolvedora+Full+Stack"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/pawlaleme/CONTADOR-VISITAS-GITHUB_">
+    <img alt="Contador de visitas" title="Visitas Perfil GitHub" src="https://contador-visitas-github.vercel.app/"/></a>
+</p>
+<p align="center"> 🦋 Bacharel em Sistemas da Informação pela UNISO. Aperfeiçoando meus conhecimentos em MBA USP/ESAQL Engenharia de Software. Criei esse git para registrar meus estudos. 🦋 </p>
 
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/01pawla/)
 [![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/eupawlaleme)
