@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/564x/ee/67/c4/ee67c4025ebd01629efaebaa9ed289f9.jpg" alt="ilustração de um computador" min-width="140px" max-width="1300px" width="200px" align="right">
 <div align="left">
-# <p align="center">Paula Leme</p>
+ <p align="center">Paula Leme</p>
 <p align="center">
   <a href="https://github.com/pawlaleme/pawlaleme"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Desenvolvedora+Full+Stack"></a>
 </p>
@@ -16,17 +16,15 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulaleme/)
 [![twitc](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.com/paulafps)
 </div></div>
+<div style="display: inline_block"><br/>
 
-## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/FindPET)
-[![Pawla Leme](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=pawlaleme&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/FindPET)
+## Repositories -
+[![FindPET](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=findPET&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/FindPET)
 
 [![Pawla Leme](https://github-readme-stats.vercel.app/api/pin/?username=pawlaleme&repo=pawlaleme&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/pawlaleme/pawlaleme)
 
-<p align="left">
-  <a href="https://github.com/pawlaleme?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<div style="display: inline_block"><br/>  <a href="https://github.com/pawlaleme?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
 <br/>
 <hr/>
 <br/>
@@ -44,7 +42,7 @@
 </p>
 
 <a> 
-    <a href="https://github.com/pawlaleme"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pawlaleme&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/pawlaleme"><img alt="Paula Leme's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pawlaleme&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/pawlaleme"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pawlaleme&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
