@@ -14,7 +14,7 @@ Eu sou a Paula, tenho 24 anos, sou formada em Sistemas da Informação pela UNIS
 ![Pawla Lemes's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawlaleme&show_icons=true&theme=synthwave)
 </div>
 </div>
-<h4> ##Tecnologias que utilizo no meu dia a dia  🚀 <h4>
+<h3> ##Tecnologias que utilizo no meu dia a dia  🚀 <h3>
 <div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"   />
  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"   />
