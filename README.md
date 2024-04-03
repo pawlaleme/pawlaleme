@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/36/9b/5b/369b5b56624a60fcaed7b450432775db.jpg" alt="ilustração de um computador" min-width="140px" max-width="1300px" width="182px" align="right">
+<img src="https://i.pinimg.com/736x/36/9b/5b/369b5b56624a60fcaed7b450432775db.jpg" alt="ilustração de um computador" min-width="140px" max-width="1300px" width="172px" align="right">
 <div align="left">
 # <p align="center">Paula Leme</p>
 <p align="center">
