@@ -13,7 +13,7 @@ Eu sou a Paula, tenho 24 anos, sou formada em Sistemas da Informação pela UNIS
 
 ![Pawla Lemes's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawlaleme&show_icons=true&theme=synthwave)
 </div>
-<div>
+<div style="display: inline_block">
  ##Tecnologias
 </div>
 <div style="display: inline_block"><br/>
