@@ -1,5 +1,7 @@
-###**🦋 Olá, tudo bem? 
-    Eu sou a Paula, tenho 24 anos, sou formada em Sistemas da Informação pela UNISO. Criei esse git para registrar meus estudos. 🦋
+<div align="center">
+
+### **🦋 Olá, tudo bem?** 
+Eu sou a Paula, tenho 24 anos, sou formada em Sistemas da Informação pela UNISO. Criei esse git para registrar meus estudos. 🦋
 
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/01pawla/)
 [![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/eupawlaleme)
@@ -14,21 +16,21 @@
 
 ![Pawla Lemes's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawlaleme&show_icons=true&theme=synthwave)
 
-
-
-##tecnologias
-<div    style="display: inline_block"><br/>
+## Tecnologias
+<div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"   />
 </div>
-<div    style="display: inline_block"><br/>
+<div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"   />
 </div>
-<div    style="display: inline_block"><br/>
+<div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"   />
 </div>
-<div    style="display: inline_block"><br/>
+<div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"   />
 </div>
-<div    style="display: inline_block"><br/>
+<div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"   />
+</div>
+
 </div>
